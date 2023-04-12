@@ -5,7 +5,7 @@ A basic game of 2048 that can be played inside of the terminal written in c++
 ## How to compile and play the game
 If you're on linux, mac, or are using the Windows Subsystem for Linux (WSL), download g++
 
-sudo apt-get install g++
+> sudo apt-get install g++
 
 Then go to the directory with the files in it in your console, then do the following commands
 
